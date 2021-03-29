@@ -3,7 +3,7 @@ import {Wrapper, Row, Header, Image, Form, Search, Button} from "./components/st
 import owl from "./images/owl.svg"
 import axios from "axios"
 import JokeItem from "./components/JokeItem"
-import {Joke, Flag} from "./common/types"
+import {Joke} from "./common/types"
 
 
 

@@ -1,5 +1,5 @@
 import {CardWrapper, CardBottom, CardTop, Setup, Delivery} from "./styled"
-import {Joke, Flag} from "../common/types"
+import {Joke} from "../common/types"
 
 interface JokeItemProps {
     joke: Joke
