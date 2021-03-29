@@ -5,7 +5,7 @@ interface ImageProps {
     theme: DefaultTheme
 }
 
-export const Image = styled.h1<ImageProps>`
+export const Image = styled.img<ImageProps>`
     width: 100px;
     height: 100px
 `
